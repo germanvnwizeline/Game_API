@@ -1,0 +1,24 @@
+{
+  "name": "game_api",
+  "version": "1.0.0",
+  "description": "API for Games",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/germanvnwizeline/Game_API.git"
+  },
+  "author": "German Villalpando Novelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/germanvnwizeline/Game_API/issues"
+  },
+  "homepage": "https://github.com/germanvnwizeline/Game_API#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "line-reader": "^0.4.0"
+  }
+}
